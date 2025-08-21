@@ -43,8 +43,8 @@ for i in range(len(X)):
 
 m=num/denom
 b=Y_mean-m*X_mean
-print('Register number:')
-print('Name:')
+print('Register number: 212224230251')
+print('Name:Santhosh V')
 print('Slope:',m)
 print('Y-intercept:',b)
 
